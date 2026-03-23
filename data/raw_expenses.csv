@@ -1,0 +1,103 @@
+Month,Category,Sub_Category,Amount,Department,Approved_By,Notes
+Jan-2024,Salaries,Engineering,"$210,000",Tech,CEO,Monthly payroll
+Jan-2024,Salaries,Sales,"$95,000",Sales,CFO,Monthly payroll
+Jan-2024,Salaries,Operations,"$78,000",Ops,CFO,Monthly payroll
+Jan-2024,Marketing,Digital Ads,"$32,500",Marketing,CMO,Google + Meta campaigns
+Jan-2024,Marketing,Events,"$12,000",Marketing,CMO,Industry conference
+Jan-2024,COGS,Manufacturing,"$185,000",Ops,COO,Raw materials
+Jan-2024,OpEx,Rent,"$25,000",Admin,CFO,Office lease
+Jan-2024,OpEx,Utilities,"$4,200",Admin,,
+Jan-2024,OpEx,Software,"$8,500",Tech,CTO,SaaS subscriptions
+Feb-2024,Salaries,Engineering,"$210,000",Tech,CEO,
+Feb-2024,Salaries,Sales,"$95,000",Sales,CFO,
+Feb-2024,Salaries,Operations,"$78,000",Ops,CFO,
+Feb-2024,Marketing,Digital Ads,"$28,000",Marketing,CMO,
+Feb-2024,COGS,Manufacturing,"$172,000",Ops,COO,
+Feb-2024,OpEx,Rent,"$25,000",Admin,CFO,
+Feb-2024,OpEx,Utilities,"$3,900",Admin,,
+Feb-2024,OpEx,Software,"$8,500",Tech,CTO,
+Mar-2024,Salaries,Engineering,"$210,000",Tech,CEO,
+Mar-2024,Salaries,Sales,"$97,000",Sales,CFO,Q1 bonus
+Mar-2024,Salaries,Operations,"$78,000",Ops,CFO,
+Mar-2024,Marketing,Digital Ads,"$35,000",Marketing,CMO,Q1 campaign push
+Mar-2024,Marketing,Events,"$18,000",Marketing,CMO,Trade show
+Mar-2024,COGS,Manufacturing,"$195,000",Ops,COO,
+Mar-2024,OpEx,Rent,"$25,000",Admin,CFO,
+Mar-2024,OpEx,Utilities,"$4,500",Admin,,Seasonal adjustment
+Mar-2024,OpEx,Software,"$9,200",Tech,CTO,New tool subscription
+Apr-2024,Salaries,Engineering,"$212,000",Tech,CEO,Salary adjustment
+Apr-2024,Salaries,Sales,"$95,000",Sales,CFO,
+Apr-2024,Salaries,Operations,"$78,000",Ops,CFO,
+Apr-2024,Marketing,Digital Ads,"$30,000",Marketing,CMO,
+Apr-2024,COGS,Manufacturing,"$180,000",Ops,COO,
+Apr-2024,OpEx,Rent,"$25,000",Admin,CFO,
+Apr-2024,OpEx,Utilities,"$3,800",Admin,,
+Apr-2024,OpEx,Software,"$8,500",Tech,CTO,
+May-2024,Salaries,Engineering,"$212,000",Tech,CEO,
+May-2024,Salaries,Sales,"$95,000",Sales,CFO,
+May-2024,Salaries,Operations,"$80,000",Ops,CFO,New hire
+May-2024,Marketing,Digital Ads,"$38,000",Marketing,CMO,Summer campaign
+May-2024,Marketing,Events,"$15,000",Marketing,CMO,Webinar series
+May-2024,COGS,Manufacturing,"$198,000",Ops,COO,
+May-2024,OpEx,Rent,"$25,000",Admin,CFO,
+May-2024,OpEx,Utilities,"$4,100",Admin,,
+May-2024,OpEx,Software,"$8,500",Tech,CTO,
+Jun-2024,Salaries,Engineering,"$212,000",Tech,CEO,
+Jun-2024,Salaries,Sales,"$95,000",Sales,CFO,
+Jun-2024,Salaries,Operations,"$80,000",Ops,CFO,
+Jun-2024,Marketing,Digital Ads,"$42,000",Marketing,CMO,H1 final push
+Jun-2024,COGS,Manufacturing,"$205,000",Ops,COO,
+Jun-2024,OpEx,Rent,"$25,000",Admin,CFO,
+Jun-2024,OpEx,Utilities,"$4,600",Admin,,Summer cooling
+Jun-2024,OpEx,Software,"$8,500",Tech,CTO,
+Jul-2024,Salaries,Engineering,"$212,000",Tech,CEO,
+Jul-2024,Salaries,Sales,"$95,000",Sales,CFO,
+Jul-2024,Salaries,Operations,"$80,000",Ops,CFO,
+Jul-2024,Marketing,Digital Ads,"$29,000",Marketing,CMO,
+Jul-2024,COGS,Manufacturing,"$200,000",Ops,COO,
+Jul-2024,OpEx,Rent,"$25,000",Admin,CFO,
+Jul-2024,OpEx,Utilities,"$4,800",Admin,,
+Jul-2024,OpEx,Software,"$8,500",Tech,CTO,
+Aug-2024,Salaries,Engineering,"$214,000",Tech,CEO,New engineer
+Aug-2024,Salaries,Sales,"$95,000",Sales,CFO,
+Aug-2024,Salaries,Operations,"$80,000",Ops,CFO,
+Aug-2024,Marketing,Digital Ads,"$31,000",Marketing,CMO,
+Aug-2024,Marketing,Events,"$22,000",Marketing,CMO,Annual company event
+Aug-2024,COGS,Manufacturing,"$193,000",Ops,COO,
+Aug-2024,OpEx,Rent,"$25,000",Admin,CFO,
+Aug-2024,OpEx,Utilities,"$4,300",Admin,,
+Aug-2024,OpEx,Software,"$10,500",Tech,CTO,Platform upgrade
+Sep-2024,Salaries,Engineering,"$214,000",Tech,CEO,
+Sep-2024,Salaries,Sales,"$95,000",Sales,CFO,
+Sep-2024,Salaries,Operations,"$80,000",Ops,CFO,
+Sep-2024,Marketing,Digital Ads,"$36,000",Marketing,CMO,Q4 prep
+Sep-2024,COGS,Manufacturing,"$208,000",Ops,COO,
+Sep-2024,OpEx,Rent,"$25,000",Admin,CFO,
+Sep-2024,OpEx,Utilities,"$4,000",Admin,,
+Sep-2024,OpEx,Software,"$10,500",Tech,CTO,
+Oct-2024,Salaries,Engineering,"$214,000",Tech,CEO,
+Oct-2024,Salaries,Sales,"$98,000",Sales,CFO,Q4 incentives
+Oct-2024,Salaries,Operations,"$80,000",Ops,CFO,
+Oct-2024,Marketing,Digital Ads,"$45,000",Marketing,CMO,Q4 campaign
+Oct-2024,Marketing,Events,"$20,000",Marketing,CMO,Sales kickoff
+Oct-2024,COGS,Manufacturing,"$215,000",Ops,COO,
+Oct-2024,OpEx,Rent,"$25,000",Admin,CFO,
+Oct-2024,OpEx,Utilities,"$4,100",Admin,,
+Oct-2024,OpEx,Software,"$10,500",Tech,CTO,
+Nov-2024,Salaries,Engineering,"$214,000",Tech,CEO,
+Nov-2024,Salaries,Sales,"$98,000",Sales,CFO,
+Nov-2024,Salaries,Operations,"$80,000",Ops,CFO,
+Nov-2024,Marketing,Digital Ads,"$50,000",Marketing,CMO,Black Friday campaigns
+Nov-2024,COGS,Manufacturing,"$228,000",Ops,COO,Peak production
+Nov-2024,OpEx,Rent,"$25,000",Admin,CFO,
+Nov-2024,OpEx,Utilities,"$4,400",Admin,,
+Nov-2024,OpEx,Software,"$10,500",Tech,CTO,
+Dec-2024,Salaries,Engineering,"$214,000",Tech,CEO,
+Dec-2024,Salaries,Sales,"$102,000",Sales,CFO,Year-end bonus
+Dec-2024,Salaries,Operations,"$85,000",Ops,CFO,Year-end bonus
+Dec-2024,Marketing,Digital Ads,"$38,000",Marketing,CMO,
+Dec-2024,Marketing,Events,"$28,000",Marketing,CMO,Year-end client event
+Dec-2024,COGS,Manufacturing,"$221,000",Ops,COO,
+Dec-2024,OpEx,Rent,"$25,000",Admin,CFO,
+Dec-2024,OpEx,Utilities,"$4,700",Admin,,
+Dec-2024,OpEx,Software,"$10,500",Tech,CTO,Annual renewal
